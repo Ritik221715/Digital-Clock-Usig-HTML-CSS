@@ -1,1 +1,1 @@
-# Digital-Clock-Usig-HTML-CSS
+#This progam is used for showing the Real Time By Using HTML CSS JAVASCRIPT. 
